@@ -16,8 +16,7 @@ public class Create_ArrayList {
 		al.add(55);
 		
 		System.out.println(al);
-//		Adding Colection into ArrayList
-		
+//		************ Adding Colection into ArrayList  ****************
 		List<Integer> al1=new ArrayList();
 		al1.add(152);
 		al1.add(200);
