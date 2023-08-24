@@ -1,7 +1,0 @@
- ArrayList-
- 
- It is the child interface of Collection
--> If we want to represent a group of individual objects where duplicates are allowed and 
-insertion order is preserved. Then we should go for List.
-> We can differentiate duplicate Objects and we can maintain insertion order by means of 
-index hence "index plays important role in List" 

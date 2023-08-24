@@ -28,5 +28,19 @@ public class Create_ArrayList {
 		LinkedList ll2=new LinkedList();
 		ll2.add(152);
 		ll2.add(256);
+
+//		ArrayList Constructors:
+//		1) ArrayList al=new ArrayList(); 
+		 ArrayList al3=new ArrayList(); 
+		
+//		2) ArrayList al=new ArrayList(int initialCapacity);
+
+		ArrayList<Integer> al2=new ArrayList<>(10);
+		
+//		3) ArrayList al=new ArrayList(Collection c);
+		
+		ArrayList <Integer> al4=new ArrayList<>(al);
+		System.out.println("   ArrayList al=new ArrayList(Collection c); ->"+al );
+		
 	}
 }
