@@ -25,9 +25,9 @@ public class Create_ArrayList {
 		
 		al.addAll(al1);
 		System.out.println("After Adding Colection into Odl array :->"+al);
-		LinkedList ll2=new LinkedList();
-		ll2.add(152);
-		ll2.add(256);
+		ArrayList al2=new ArrayList();
+		al2.add(152);
+		al2.add(256);
 
 //		ArrayList Constructors:
 //		1) ArrayList al=new ArrayList(); 
@@ -35,7 +35,7 @@ public class Create_ArrayList {
 		
 //		2) ArrayList al=new ArrayList(int initialCapacity);
 
-		ArrayList<Integer> al2=new ArrayList<>(10);
+		ArrayList<Integer> al5=new ArrayList<>(10);
 		
 //		3) ArrayList al=new ArrayList(Collection c);
 		
